@@ -1,0 +1,18 @@
+{
+  "name": "dev.jonasjohansson.communication",
+  "version": "0.0.1",
+  "displayName": "Sygnal",
+  "description": "Shared data objects and events with or without scritable objects",
+  "unity": "2019.4",
+  "keywords": [
+    "Communication",
+    "ScritableObjects",
+    "Events",
+    "Shared Data"
+  ],
+  "author": {
+    "name": "Jonas Johansson",
+    "email": "pxljuc@gmail.com",
+    "url": "https://www.jonasjohansson.dev"
+  }
+}

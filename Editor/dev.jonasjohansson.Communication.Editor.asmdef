@@ -1,0 +1,17 @@
+{
+    "name": "dev.jonasjohansson.Communication.Editor",
+    "references": [
+        "GUID:655ba63a1bcc28b4fbce8baf12e024cb"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
