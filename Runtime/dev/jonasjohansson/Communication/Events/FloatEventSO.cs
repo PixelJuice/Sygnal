@@ -3,7 +3,7 @@ using UnityEngine;
 
 namespace dev.jonasjohansson.Communication.Events
 {
-    [CreateAssetMenu(fileName = "FloatEvent", menuName = "JJ/Events/FloatEvent", order = 1)]
+    [CreateAssetMenu(fileName = "FloatEvent", menuName = "JJ/Communication/Events/FloatEvent", order = 1)]
     public class FloatEventSO :ScriptableObject, IEvent<Action<float>>, IFloatEvent
     {
         private FloatEvent m_event = new FloatEvent();

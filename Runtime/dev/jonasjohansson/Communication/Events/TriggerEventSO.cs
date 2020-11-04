@@ -3,7 +3,7 @@ using UnityEngine;
 
 namespace dev.jonasjohansson.Communication.Events
 {
-    [CreateAssetMenu(fileName = "TriggerEvent", menuName = "JJ/Events/TriggerEvent", order = 1)]
+    [CreateAssetMenu(fileName = "TriggerEvent", menuName = "JJ/Communication/Events/TriggerEvent", order = 1)]
     public class TriggerEventSO :ScriptableObject, IEvent<Action>, ITriggerEvent
     {
         private TriggerEvent m_event = new TriggerEvent();
